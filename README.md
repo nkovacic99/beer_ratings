@@ -1,5 +1,6 @@
 # beer_ratings
-Projektna naloga pri predmetu Programiranje 1.
+
+Projektna naloga pri predmetu Programiranje 1, z naslovom 'Najbolj popularna piva na svetu'.
 
 V tej projektni nalogi bom ocenjeval piva s pomočjo podatkov, ki jih bom analiziral s strani https://www.ratebeer.com/.
 
