@@ -13,3 +13,8 @@ Podatke bom ločil v več skupin in sicer:
 	- država izvora
 	- stopnja alkohola
 	- kalorična vrednost
+
+Hipoteze:
+	- država izvora ima zaradi števila glasov (in subjektivnega ocenjevanja) velik vpliv na skupno oceno piva
+	- stopnja alkohola je premosorazmerna s kalorično vrednostjo piva
+	- stopnja priljubljenosti (oz. skupna ocena) piva je odvisna od stila piva
