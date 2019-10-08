@@ -4,6 +4,7 @@ Projektna naloga pri predmetu Programiranje 1, z naslovom 'Najbolj popularna piv
 
 V tej projektni nalogi bom ocenjeval piva s pomočjo podatkov, ki jih bom analiziral s strani https://www.ratebeer.com/.
 
+## Potek dela
 Podatke bom ločil v več skupin in sicer:
 	+ ime piva
 	+ skupna ocena (oceno lahko spreminjajo uporabniki, tako da bo zaradi velikega števila ocen navadno precej realna)
@@ -15,7 +16,7 @@ Podatke bom ločil v več skupin in sicer:
 	+ stopnja alkohola
 	+ kalorična vrednost
 
-Hipoteze:
+## Hipoteze
 	+ država izvora ima zaradi števila glasov (in subjektivnega ocenjevanja) velik vpliv na skupno oceno piva
 	+ stopnja alkohola je premosorazmerna s kalorično vrednostjo piva
 	+ stopnja priljubljenosti (oz. skupna ocena) piva je odvisna od stila piva
