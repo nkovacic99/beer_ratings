@@ -57,7 +57,18 @@ def piva_v_seznam_slovarjev(seznam_piv):
         r'</b></td><td align="left" valign="top" class=".*?">.</td></tr>', re.DOTALL)
         beer = re.search(iskalna_zahteva, str(pivo))
         if beer == None:
-            pass
+            iskalna_zahteva2 = re.compile(
+            r'<tr><td align="center" valign="top" class="hr_bottom_light" bgcolor=".*?"><span style=".*?">(?P<MESTO>.*?)'
+            r'</span></td><td align=".*?" class=".*?"><a href=".*?"><b>(?P<IME_PIVA>.*?)'
+            r'</b></a><span class="muted"><br><a href=".*?">(?P<PIVNICA>.*?)'
+            r'</a><br><a href=".*?">(?P<VRSTA_PIVA>.*?)'
+            r'</a>.*?' #dve pivi nimata zabeležene stopne alkohola => ju ne najde
+            r'</span></td><td align="left" valign="top" class=".*?"><b>(?P<ST_GLASOV>.*?)'
+            r'</b></td><td align="left" valign="top" class=".*?"><b>(?P<AVG_OCENA>.*?)'
+            r'</b></td><td align="left" valign="top" class=".*?">.</td></tr>', re.DOTALL)
+            beer2 = re.search(iskalna_zahteva2, str(pivo))
+            slovar_pivo = beer2.groupdict()
+            seznam_slovarjev.append(slovar_pivo)
         else:
             slovar_pivo = beer.groupdict()
             seznam_slovarjev.append(slovar_pivo)
