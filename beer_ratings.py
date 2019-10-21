@@ -62,7 +62,7 @@ def piva_v_seznam_slovarjev(seznam_piv):
             r'</span></td><td align=".*?" class=".*?"><a href=".*?"><b>(?P<IME_PIVA>.*?)'
             r'</b></a><span class="muted"><br><a href=".*?">(?P<PIVNICA>.*?)'
             r'</a><br><a href=".*?">(?P<VRSTA_PIVA>.*?)'
-            r'</a>.*?' #dve pivi nimata zabeležene stopne alkohola => ju ne najde
+            r'</a>.*?'
             r'</span></td><td align="left" valign="top" class=".*?"><b>(?P<ST_GLASOV>.*?)'
             r'</b></td><td align="left" valign="top" class=".*?"><b>(?P<AVG_OCENA>.*?)'
             r'</b></td><td align="left" valign="top" class=".*?">.</td></tr>', re.DOTALL)
@@ -74,8 +74,6 @@ def piva_v_seznam_slovarjev(seznam_piv):
             seznam_slovarjev.append(slovar_pivo)
     return(seznam_slovarjev)
 
-#print((piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
-#pivi, ki ju funkcija ne zajame, sta na 75. in 248. mestu
 
 def slovar_v_csv(seznam_slovarjev, directory, filename):
     pot_do_datoteke = os.path.join(directory, filename)
