@@ -45,7 +45,7 @@ def piva_v_seznam_slovarjev(seznam_piv):
     Na koncu vrne seznam vseh slovarjev piv.
     """
     seznam_slovarjev = list()
-    for pivo in stran_v_seznam('beer_ratings', 'spletni_html'):
+    for pivo in seznam_piv:
         iskalna_zahteva = re.compile(
         r'<tr><td align="center" valign="top" class="hr_bottom_light" bgcolor=".*?"><span style=".*?">(?P<MESTO>.*?)'
         r'</span></td><td align=".*?" class=".*?"><a href=".*?"><b>(?P<IME_PIVA>.*?)'
@@ -69,11 +69,9 @@ def piva_v_seznam_slovarjev(seznam_piv):
 def slovar_v_csv(seznam_slovarjev, directory, filename):
     pot_do_datoteke = os.path.join(directory, filename)
     kategorije = list()
-    print(seznam_slovarjev[0].keys())
     for kategorija in seznam_slovarjev[0].keys():
         if kategorija not in kategorije:
             kategorije.append(kategorija)
-    print(kategorije)
     with open(pot_do_datoteke, 'w', encoding='utf-8') as f:
         csv_writer = csv.DictWriter(f, fieldnames=kategorije, delimiter=',')
         csv_writer.writeheader()
