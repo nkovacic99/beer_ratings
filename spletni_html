@@ -1010,7 +1010,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1518706921919-1');
 <div class="pageContent">
 <ul class="bigFooterRow bigFooterRow--mainRow bigFooterRow--has4Columns">
 <li class="bigFooterCol bigFooterCol--col1">
- <div class="section">
+<div class="section">
 <h3 class="bigFooterHeader">
 BeerAdvocate
 </h3>
