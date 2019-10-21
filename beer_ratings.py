@@ -46,7 +46,7 @@ def piva_v_seznam_slovarjev(seznam_piv):
         r'</span></td><td align=".*?" class=".*?"><a href=".*?"><b>(?P<IME_PIVA>.*?)'
         r'</b></a><span class="muted"><br><a href=".*?">(?P<PIVNICA>.*?)'
         r'</a><br><a href=".*?">(?P<VRSTA_PIVA>.*?)'
-        r'</a> . (?P<STOPNJA_ALKOHOLA>.*?)'
+        r'</a> . (?P<STOPNJA_ALKOHOLA>.*?)' #dve pivi nimata zabeležene stopne alkohola => ju ne najde
         r'</span></td><td align="left" valign="top" class=".*?"><b>(?P<ST_GLASOV>.*?)'
         r'</b></td><td align="left" valign="top" class=".*?"><b>(?P<AVG_OCENA>.*?)'
         r'</b></td><td align="left" valign="top" class=".*?">.</td></tr>', re.DOTALL)
@@ -58,10 +58,8 @@ def piva_v_seznam_slovarjev(seznam_piv):
             seznam_slovarjev.append(slovar_pivo)
     return(seznam_slovarjev)
 
-print(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
-#ne pozabi izbrisat teh st spremenljivk
+print((piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
 #pivi, ki ju funkcija ne zajame, sta na 75. in 248. mestu
-#print(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
 
 def slovar_v_csv(seznam_slovarjev, directory, filename):
     pot_do_datoteke = os.path.join(directory, filename)
@@ -76,5 +74,3 @@ def slovar_v_csv(seznam_slovarjev, directory, filename):
         csv_writer.writeheader()
         for slovar in seznam_slovarjev:
             csv_writer.writerow(slovar)
-
-slovar_v_csv(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')), 'beer_ratings', 'csv_file.csv')
