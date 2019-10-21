@@ -40,7 +40,6 @@ def piva_v_seznam_slovarjev(seznam_piv):
     Na koncu vrne seznam vseh slovarjev piv.
     """
     seznam_slovarjev = list()
-    st = 1
     for pivo in stran_v_seznam('beer_ratings', 'spletni_html'):
         iskalna_zahteva = re.compile(
         r'<tr><td align="center" valign="top" class="hr_bottom_light" bgcolor=".*?"><span style=".*?">(?P<MESTO>.*?)'
@@ -53,14 +52,29 @@ def piva_v_seznam_slovarjev(seznam_piv):
         r'</b></td><td align="left" valign="top" class=".*?">.</td></tr>', re.DOTALL)
         beer = re.search(iskalna_zahteva, str(pivo))
         if beer == None:
-            print(st)
-            st += 1
+            pass
         else:
-            st += 1
             slovar_pivo = beer.groupdict()
             seznam_slovarjev.append(slovar_pivo)
     return(seznam_slovarjev)
 
+print(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
 #ne pozabi izbrisat teh st spremenljivk
 #pivi, ki ju funkcija ne zajame, sta na 75. in 248. mestu
-print(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
+#print(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
+
+def slovar_v_csv(seznam_slovarjev, directory, filename):
+    pot_do_datoteke = os.path.join(directory, filename)
+    kategorije = list()
+    print(seznam_slovarjev[0].keys())
+    for kategorija in seznam_slovarjev[0].keys():
+        if kategorija not in kategorije:
+            kategorije.append(kategorija)
+    print(kategorije)
+    with open(pot_do_datoteke, 'w', encoding='utf-8') as f:
+        csv_writer = csv.DictWriter(f, fieldnames=kategorije, delimiter=',')
+        csv_writer.writeheader()
+        for slovar in seznam_slovarjev():
+            csv_writer.writerow(slovar)
+
+slovar_v_csv(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')), 'beer_ratings', 'csv_file')
