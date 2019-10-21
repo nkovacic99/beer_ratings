@@ -77,4 +77,4 @@ def slovar_v_csv(seznam_slovarjev, directory, filename):
         for slovar in seznam_slovarjev():
             csv_writer.writerow(slovar)
 
-slovar_v_csv(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')), 'beer_ratings', 'csv_file')
+slovar_v_csv(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')), 'beer_ratings', 'csv_file.csv')
