@@ -13,7 +13,7 @@ def v_datoteko(url, directory, filename):
     with open(pot_do_datoteke, 'w', encoding = 'utf-8') as f:
         f.write(html_tekst)
 
-#figure out if a function should be more simple
+#should a function be simpler?
 def stran_v_seznam(directory, filename):
     """
     Funkcija, ki:\n
@@ -33,17 +33,14 @@ def stran_v_seznam(directory, filename):
     r'</b></td><td align="left" valign="top" class="hr_bottom_light">.</td></tr>', re.DOTALL)
     return(re.findall(iskalna_zahteva, string_spletne_strani))
 
-
-#preverimo, da sploh lahko kličem po v bistvu .findall seznamu
-#for pivo in stran_v_seznam('beer_ratings', 'spletni_html'):
-#    print(pivo)
-
-def pivo_v_seznam_slovarjev(seznam_piv):
+#dve pivi preskoci --> vrne None
+def piva_v_seznam_slovarjev(seznam_piv):
     """
     Funkcija, ki vzame seznam html podatkov in za vsako pivo naredi slovar. \n
     Na koncu vrne seznam vseh slovarjev piv.
     """
     seznam_slovarjev = list()
+    st = 1
     for pivo in stran_v_seznam('beer_ratings', 'spletni_html'):
         iskalna_zahteva = re.compile(
         r'<tr><td align="center" valign="top" class="hr_bottom_light" bgcolor=".*?"><span style=".*?">(?P<MESTO>.*?)'
@@ -56,8 +53,14 @@ def pivo_v_seznam_slovarjev(seznam_piv):
         r'</b></td><td align="left" valign="top" class=".*?">.</td></tr>', re.DOTALL)
         beer = re.search(iskalna_zahteva, str(pivo))
         if beer == None:
-            pass
+            print(st)
+            st += 1
         else:
+            st += 1
             slovar_pivo = beer.groupdict()
             seznam_slovarjev.append(slovar_pivo)
     return(seznam_slovarjev)
+
+#ne pozabi izbrisat teh st spremenljivk
+#pivi, ki ju funkcija ne zajame, sta na 75. in 248. mestu
+print(piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
