@@ -11,7 +11,7 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 10,King JJJuliusss,Tree House Brewing Company,New England IPA,8.40%,527,4.78
 11,Fundamental Observation,Bottle Logic Brewing,American Imperial Stout,14.30%,"1,360",4.73
 12,SR-71,Toppling Goliath Brewing Company,American Imperial Stout,14.00%,514,4.76
-13,CBS (Canadian Breakfast Stout),Founders Brewing Company,American Imperial Stout,11.70%,"6,172",4.7
+13,CBS (Canadian Breakfast Stout),Founders Brewing Company,American Imperial Stout,11.70%,"6,173",4.7
 14,Pliny The Elder,Russian River Brewing Company,American Imperial IPA,8.00%,"15,211",4.69
 15,Juice Machine,Tree House Brewing Company,New England IPA,8.20%,921,4.72
 16,Fou' Foune,Brasserie Cantillon,Belgian Fruit Lambic,5.50%,"3,130",4.69
@@ -26,7 +26,7 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 25,Dinner,Maine Beer Company,American Imperial IPA,8.20%,"2,518",4.66
 26,KBS (Kentucky Breakfast Stout),Founders Brewing Company,American Imperial Stout,12.30%,"13,702",4.65
 27,Barrel Aged Imperial German Chocolate Cupcake Stout,Angry Chair Brewing,American Imperial Stout,11.00%,275,4.75
-28,JJJuliusss,Tree House Brewing Company,New England IPA,6.80%,646,4.69
+28,JJJuliusss,Tree House Brewing Company,New England IPA,6.80%,647,4.69
 29,Morning Wood,Funky Buddha Brewery,American Imperial Porter,12.00%,"1,180",4.67
 30,Parabola,Firestone Walker Brewing Co.,Russian Imperial Stout,13.00%,"6,978",4.65
 31,Duck Duck Gooze,The Lost Abbey,Belgian Gueuze,7.00%,"1,911",4.66
@@ -34,7 +34,7 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 33,Lou Pepe - Kriek,Brasserie Cantillon,Belgian Fruit Lambic,5.00%,"1,820",4.65
 34,Zombie Dust,3 Floyds Brewing Co.,American Pale Ale (APA),6.20%,"10,719",4.63
 35,Westly,Sante Adairius Rustic Ales,American Wild Ale,8.50%,371,4.7
-36,Bourbon County Brand Vanilla Stout,Goose Island Beer Co.,American Imperial Stout,14.90%,"1,846",4.64
+36,Bourbon County Brand Vanilla Stout,Goose Island Beer Co.,American Imperial Stout,14.90%,"1,847",4.64
 37,Doubleganger,Tree House Brewing Company,New England IPA,8.20%,996,4.65
 38,Fuzzy,Side Project Brewing,American Wild Ale,8.00%,942,4.65
 39,Double Citra®,Hill Farmstead Brewery,American Imperial IPA,8.00%,"2,002",4.63
@@ -52,7 +52,7 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 51,Framboise Du Fermier,Side Project Brewing,Belgian Saison,8.00%,247,4.7
 52,Green,Tree House Brewing Company,New England IPA,7.60%,"3,197",4.6
 53,Lou Pepe - Framboise,Brasserie Cantillon,Belgian Fruit Lambic,5.50%,"1,397",4.61
-54,Very GGGreennn,Tree House Brewing Company,New England IPA,8.30%,131,4.79
+54,Very GGGreennn,Tree House Brewing Company,New England IPA,8.30%,132,4.79
 55,Aaron,Hill Farmstead Brewery,British Barleywine,9.00%,633,4.63
 56,Sip Of Sunshine,Lawson's Finest Liquids,American Imperial IPA,8.00%,"5,767",4.59
 57,Black Tuesday,The Bruery,American Imperial Stout,19.50%,"4,093",4.59
@@ -73,6 +73,7 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 72,Chemtrailmix,3 Floyds Brewing Co.,Russian Imperial Stout,15.00%,166,4.73
 73,Triple Sunshine,Lawson's Finest Liquids,American Imperial IPA,10.50%,973,4.6
 74,Grande Negro Voodoo Papi - Bourbon Barrel-Aged,Voodoo Brewery,American Imperial Stout,12.50%,385,4.64
+75,Clover,Hill Farmstead Brewery,Belgian Saison,,186,4.71
 76,Anabasis,Side Project Brewing,American Barleywine,14.00%,150,4.74
 77,Black Note Stout,Bell's Brewery - Eccentric Café & General Store,American Imperial Stout,11.20%,"4,893",4.57
 78,Beer Geek Vanilla Shake - Bourbon Barrel-Aged,Mikkeller ApS,American Imperial Stout,13.00%,524,4.61
@@ -83,14 +84,14 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 83,Flora Plum,Hill Farmstead Brewery,Belgian Saison,5.00%,342,4.63
 84,Galaxy Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,American Pale Ale (APA),6.60%,"1,727",4.57
 85,V.S.O.J.,Revolution Brewing,British Barleywine,14.00%,185,4.69
-86,The Broken Truck,de Garde Brewing,American Wild Ale,5.00%,319,4.63
+86,The Broken Truck,de Garde Brewing,American Wild Ale,5.00%,320,4.63
 87,Abricot Du Fermier,Side Project Brewing,Belgian Saison,8.00%,363,4.62
 88,Alter Ego,Tree House Brewing Company,New England IPA,6.80%,"2,477",4.56
 89,Saison Du Fermier,Side Project Brewing,Belgian Saison,7.00%,811,4.58
 90,Breakfast Stout,Founders Brewing Company,American Imperial Stout,8.30%,"17,472",4.55
 91,Sunday Brunch,Kane Brewing Company,American Imperial Porter,9.20%,783,4.58
 92,West Ashley,Sante Adairius Rustic Ales,American Wild Ale,7.30%,"1,136",4.57
-93,Black Gold,Central Waters Brewing Co.,American Imperial Stout,11.00%,775,4.58
+93,Black Gold,Central Waters Brewing Co.,American Imperial Stout,11.00%,776,4.58
 94,Pseudo Sue - Double Dry-Hopped,Toppling Goliath Brewing Company,American Pale Ale (APA),6.80%,"1,117",4.57
 95,Trappistes Rochefort 10,Brasserie de Rochefort,Belgian Quadrupel (Quad),11.30%,"9,658",4.55
 96,A Deal With The Devil,Anchorage Brewing Company,American Barleywine,17.30%,"1,091",4.57
@@ -105,14 +106,14 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 105,Society & Solitude #5,Hill Farmstead Brewery,New England IPA,8.10%,"1,587",4.55
 106,Miami Madness,J. Wakefield Brewing,Berliner Weisse,5.50%,436,4.59
 107,Cutting Tiles (Mosaic),Trillium Brewing Company,New England IPA,8.50%,"1,342",4.55
-108,Pirate Paradise,Prairie Artisan Ales,American Imperial Stout,13.00%,278,4.62
+108,Pirate Paradise,Prairie Artisan Ales,American Imperial Stout,13.00%,279,4.62
 109,Ghost In The Machine - Double Dry-Hopped,Parish Brewing Company,New England IPA,8.00%,248,4.63
 110,Blåbær Lambik,Brasserie Cantillon,Belgian Fruit Lambic,5.00%,844,4.56
 111,The Rusty Nail,Fremont Brewing Company,English Oatmeal Stout,14.50%,612,4.57
 112,Pirate Bomb!,Prairie Artisan Ales,American Imperial Stout,15.00%,"2,354",4.54
 113,Speedway Stout - Bourbon Barrel-Aged,AleSmith Brewing Company,American Imperial Stout,12.00%,"2,262",4.54
 114,The Peach,de Garde Brewing,American Wild Ale,7.30%,268,4.62
-115,Double Shot,Tree House Brewing Company,American Stout,7.60%,"1,104",4.55
+115,Double Shot,Tree House Brewing Company,American Stout,7.60%,"1,105",4.55
 116,Grey Monday,The Bruery,American Imperial Stout,19.90%,"1,877",4.54
 117,Great,Alpine Beer Company,American Barleywine,14.00%,728,4.56
 118,In Perpetuity,Tree House Brewing Company,New England IPA,6.70%,"1,028",4.55
@@ -137,7 +138,7 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 137,Barrel-Aged Sump Coffee Stout,Perennial Artisan Ales,American Imperial Stout,10.50%,600,4.55
 138,Susan,Hill Farmstead Brewery,New England IPA,6.20%,"2,015",4.52
 139,Kaggen! Stormaktsporter,Närke Kulturbryggeri AB,Russian Imperial Stout,10.00%,195,4.63
-140,The Abyss,Deschutes Brewery,American Imperial Stout,11.40%,"7,429",4.51
+140,The Abyss,Deschutes Brewery,American Imperial Stout,11.40%,"7,430",4.51
 141,Hold On To Sunshine,Tree House Brewing Company,English Sweet / Milk Stout,7.60%,446,4.56
 142,Darkness,Surly Brewing Company,Russian Imperial Stout,10.30%,"4,086",4.51
 143,3rd Anniversary Imperial IPA,Other Half Brewing Company - Brooklyn,New England IPA,10.00%,311,4.58
@@ -146,7 +147,7 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 146,Melcher Street (Double Dry-Hopped),Trillium Brewing Company,New England IPA,7.20%,"1,319",4.52
 147,Everett Porter,Hill Farmstead Brewery,American Porter,7.50%,"2,798",4.51
 148,Mosaic Dry Hopped Fort Point,Trillium Brewing Company,American Pale Ale (APA),6.60%,"1,257",4.52
-149,Bourbon Barrel Aged Dark Star: Coffee Edition,Fremont Brewing Company,English Oatmeal Stout,13.60%,815,4.53
+149,Bourbon Barrel Aged Dark Star: Coffee Edition,Fremont Brewing Company,English Oatmeal Stout,13.60%,816,4.53
 150,Lou Pepe - Gueuze,Brasserie Cantillon,Belgian Gueuze,5.00%,"1,234",4.52
 151,Congress Street IPA,Trillium Brewing Company,New England IPA,7.20%,"2,366",4.51
 152,Heavy Mettle,Trillium Brewing Company,New England IPA,9.30%,"1,176",4.52
@@ -170,7 +171,7 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 170,Double Dry Hopped Double Mosaic Daydream,Other Half Brewing Company - Brooklyn,New England IPA,8.50%,407,4.54
 171,Impermanence,Tree House Brewing Company,English Sweet / Milk Stout,9.00%,400,4.54
 172,Stickee Monkee,Firestone Walker Brewing Co.,Belgian Quadrupel (Quad),12.50%,"2,893",4.49
-173,Damon (Bourbon Barrel Aged),Hill Farmstead Brewery,Russian Imperial Stout,10.50%,805,4.51
+173,Damon (Bourbon Barrel Aged),Hill Farmstead Brewery,Russian Imperial Stout,10.50%,806,4.51
 174,Double Barrel Jesus,Evil Twin Brewing,American Imperial Stout,12.00%,804,4.51
 175,Bad Boy,Alpine Beer Company,American Imperial IPA,9.00%,592,4.52
 176,Trappist Westvleteren 8 (VIII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Belgian Dubbel,8.00%,"2,299",4.49
@@ -241,9 +242,10 @@ MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
 241,Mastermind,Fiddlehead Brewing Company,American Imperial IPA,8.10%,"1,445",4.46
 242,Blanc De Blancs,Side Project Brewing,Bière de Champagne / Bière Brut,10.00%,290,4.52
 243,Double Orange Starfish,Aslin Beer Company,New England IPA,8.30%,379,4.5
-244,Dorothy (Wine Barrel Aged),Hill Farmstead Brewery,Belgian Saison,7.00%,221,4.54
+244,Dorothy (Wine Barrel Aged),Hill Farmstead Brewery,Belgian Saison,7.00%,222,4.54
 245,Enjoy By IPA,Stone Brewing,American Imperial IPA,9.40%,"11,104",4.44
 246,Scaled Up,Trillium Brewing Company,New England IPA,8.00%,934,4.46
 247,Madagascar,4 Hands Brewing Co.,English Sweet / Milk Stout,9.30%,889,4.46
+248,Flora - Blueberry,Hill Farmstead Brewery,Belgian Saison,,255,4.52
 249,Dragonsaddle,Hoof Hearted Brewing,New England IPA,11.50%,334,4.5
 250,Sure Bet,Pipeworks Brewing Company,American Imperial IPA,9.50%,625,4.47
