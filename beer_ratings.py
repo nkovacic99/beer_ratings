@@ -4,6 +4,11 @@ import re
 import requests
 #necessary libraries
 
+SPLETNA_STRAN_PIV = 'https://www.beeradvocate.com/beer/top-rated/'
+DIRECTORY = 'beer_ratings'
+HTML_SCRIPT_FILENAME = 'spletni_html'
+CSV_FILENAME = 'csv_file.csv'
+
 def v_datoteko(url, directory, filename):
     """
     Funkcija, ki prebere spletno stran in jo shrani v datoteko
@@ -58,7 +63,7 @@ def piva_v_seznam_slovarjev(seznam_piv):
             seznam_slovarjev.append(slovar_pivo)
     return(seznam_slovarjev)
 
-print((piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
+#print((piva_v_seznam_slovarjev(stran_v_seznam('beer_ratings', 'spletni_html')))
 #pivi, ki ju funkcija ne zajame, sta na 75. in 248. mestu
 
 def slovar_v_csv(seznam_slovarjev, directory, filename):
@@ -74,3 +79,9 @@ def slovar_v_csv(seznam_slovarjev, directory, filename):
         csv_writer.writeheader()
         for slovar in seznam_slovarjev:
             csv_writer.writerow(slovar)
+
+def main():
+    v_datoteko(SPLETNA_STRAN_PIV, DIRECTORY, HTML_SCRIPT_FILENAME)
+    slovar_v_csv(piva_v_seznam_slovarjev(stran_v_seznam(DIRECTORY, HTML_SCRIPT_FILENAME)), DIRECTORY, CSV_FILENAME)
+
+main()
