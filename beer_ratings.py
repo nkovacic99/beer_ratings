@@ -8,6 +8,7 @@ SPLETNA_STRAN_PIV = 'https://www.beeradvocate.com/beer/top-rated/'
 DIRECTORY = 'beer_ratings'
 HTML_SCRIPT_FILENAME = 'spletni_html'
 CSV_FILENAME = 'csv_file.csv'
+TIPI_PIVA_CSV = 'tipi_piva.csv'
 
 def v_datoteko(url, directory, filename):
     """
@@ -57,6 +58,8 @@ def piva_v_seznam_slovarjev(seznam_piv):
         r'</b></td><td align="left" valign="top" class=".*?">.</td></tr>', re.DOTALL)
         beer = re.search(iskalna_zahteva, str(pivo))
         if beer == None:
+            #dve pivi je metalo ven kot NoneObject, 
+            #saj nista imela podatkov o alkoholni vrednosti
             iskalna_zahteva2 = re.compile(
             r'<tr><td align="center" valign="top" class="hr_bottom_light" bgcolor=".*?"><span style=".*?">(?P<MESTO>.*?)'
             r'</span></td><td align=".*?" class=".*?"><a href=".*?"><b>(?P<IME_PIVA>.*?)'
@@ -83,8 +86,11 @@ def popravi_st_glasov(seznam_slovarjev):
         glasovi = int(glasovi.replace(',', ''))
         pivo['ST_GLASOV'] = glasovi
     return seznam_slovarjev
-        
+
 def slovar_v_csv(seznam_slovarjev, directory, filename):
+    """
+    Funkcija, ki zapiše seznam slovarjev (z vsemi podatki o vseh pivih) v .csv datoteko.
+    """
     pot_do_datoteke = os.path.join(directory, filename)
     kategorije = list()
     for kategorija in seznam_slovarjev[0].keys():
@@ -95,6 +101,24 @@ def slovar_v_csv(seznam_slovarjev, directory, filename):
         csv_writer.writeheader()
         for slovar in seznam_slovarjev:
             csv_writer.writerow(slovar)
+
+#def tipi_piva_csv(seznam_slovarjev, directory, filename):
+#    slovar_vrst_piv = dict()
+#    vsi_tipi_piv = str()
+#    tipi_piv = ['Stout', 'IPA', 'Lambic', 'Quad', 'Porter', 'Gueze', 'Ale', 'Saison', 'Barleywine', 'Weisse', 'Dubbel', 'Hefeweizen', 'Bière Brut']
+#    for pivo in seznam_slovarjev:
+#        vsi_tipi_piv += pivo['VRSTA_PIVA'] + ' '
+#    for tip in tipi_piv:
+#        vrednost = vsi_tipi_piv.count(tip)
+#        slovar_vrst_piv.update({tip:vrednost})
+#    pot_do_datoteke = os.path.join(directory, filename)
+#    with open(pot_do_datoteke, 'w', encoding='utf-8') as f:
+#        csv_writer = csv.DictWriter(f, fieldnames=tipi_piv, delimiter=',')
+#        csv_writer.writeheader()
+#        for tip_piva in slovar_vrst_piv:
+#            csv_writer.writerow(tip_piva)
+
+#tipi_piva_csv(piva_v_seznam_slovarjev(stran_v_seznam(DIRECTORY, HTML_SCRIPT_FILENAME)), DIRECTORY, TIPI_PIVA_CSV)
 
 def main():
     v_datoteko(SPLETNA_STRAN_PIV, DIRECTORY, HTML_SCRIPT_FILENAME)
