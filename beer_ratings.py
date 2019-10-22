@@ -51,7 +51,7 @@ def piva_v_seznam_slovarjev(seznam_piv):
         r'</span></td><td align=".*?" class=".*?"><a href=".*?"><b>(?P<IME_PIVA>.*?)'
         r'</b></a><span class="muted"><br><a href=".*?">(?P<PIVNICA>.*?)'
         r'</a><br><a href=".*?">(?P<VRSTA_PIVA>.*?)'
-        r'</a> . (?P<STOPNJA_ALKOHOLA>.*?)' #dve pivi nimata zabeležene stopne alkohola => ju ne najde
+        r'</a> . (?P<STOPNJA_ALKOHOLA>.*?)%' #dve pivi nimata zabeležene stopne alkohola => ju ne najde
         r'</span></td><td align="left" valign="top" class=".*?"><b>(?P<ST_GLASOV>.*?)'
         r'</b></td><td align="left" valign="top" class=".*?"><b>(?P<AVG_OCENA>.*?)'
         r'</b></td><td align="left" valign="top" class=".*?">.</td></tr>', re.DOTALL)
