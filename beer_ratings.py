@@ -112,12 +112,14 @@ def slovar_v_csv(seznam_slovarjev, directory, filename):
 #        vrednost = vsi_tipi_piv.count(tip)
 #        slovar_vrst_piv.update({tip:vrednost})
 #    pot_do_datoteke = os.path.join(directory, filename)
+#    kategorije = ['vrsta piva', 'število piv']
 #    with open(pot_do_datoteke, 'w', encoding='utf-8') as f:
-#        csv_writer = csv.DictWriter(f, fieldnames=tipi_piv, delimiter=',')
+#        csv_writer = csv.DictWriter(f, fieldnames=kategorije, delimiter=',')
 #        csv_writer.writeheader()
-#        for tip_piva in slovar_vrst_piv:
-#            csv_writer.writerow(tip_piva)
-
+#        for pivo in slovar_vrst_piv:
+#            print(pivo)
+#            print(slovar_vrst_piv[pivo])
+#            csv_writer.writerow([pivo, slovar_vrst_piv[pivo]])
 #tipi_piva_csv(piva_v_seznam_slovarjev(stran_v_seznam(DIRECTORY, HTML_SCRIPT_FILENAME)), DIRECTORY, TIPI_PIVA_CSV)
 
 def main():
