@@ -74,7 +74,16 @@ def piva_v_seznam_slovarjev(seznam_piv):
             seznam_slovarjev.append(slovar_pivo)
     return(seznam_slovarjev)
 
-
+def popravi_st_glasov(seznam_slovarjev):
+    """
+    Popravi vnos ST_GLASOV, da vrne število brez decimalne vejice.
+    """
+    for pivo in seznam_slovarjev:
+        glasovi = pivo['ST_GLASOV']
+        glasovi = int(glasovi.replace(',', ''))
+        pivo['ST_GLASOV'] = glasovi
+    return seznam_slovarjev
+        
 def slovar_v_csv(seznam_slovarjev, directory, filename):
     pot_do_datoteke = os.path.join(directory, filename)
     kategorije = list()
@@ -89,6 +98,6 @@ def slovar_v_csv(seznam_slovarjev, directory, filename):
 
 def main():
     v_datoteko(SPLETNA_STRAN_PIV, DIRECTORY, HTML_SCRIPT_FILENAME)
-    slovar_v_csv(piva_v_seznam_slovarjev(stran_v_seznam(DIRECTORY, HTML_SCRIPT_FILENAME)), DIRECTORY, CSV_FILENAME)
+    slovar_v_csv(popravi_st_glasov(piva_v_seznam_slovarjev(stran_v_seznam(DIRECTORY, HTML_SCRIPT_FILENAME))), DIRECTORY, CSV_FILENAME)
 
 main()
