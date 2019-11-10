@@ -1,251 +1,251 @@
-MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
-1,Kentucky Brunch Brand Stout,Toppling Goliath Brewing Company,American Imperial Stout,12.00,781,4.9
-2,Marshmallow Handjee,3 Floyds Brewing Co.,Russian Imperial Stout,15.00,1693,4.81
-3,Hunahpu's Imperial Stout - Double Barrel Aged,Cigar City Brewing,American Imperial Stout,11.00,1610,4.79
-4,Barrel-Aged Abraxas,Perennial Artisan Ales,American Imperial Stout,11.00,1527,4.79
-5,Heady Topper,The Alchemist,New England IPA,8.00,14610,4.76
-6,King Julius,Tree House Brewing Company,New England IPA,8.30,1087,4.77
-7,Pliny The Younger,Russian River Brewing Company,American Imperial IPA,10.25,3263,4.75
-8,Mornin' Delight,Toppling Goliath Brewing Company,American Imperial Stout,12.80,1554,4.76
-9,Very Hazy,Tree House Brewing Company,New England IPA,8.60,944,4.76
-10,King JJJuliusss,Tree House Brewing Company,New England IPA,8.40,527,4.78
-11,Fundamental Observation,Bottle Logic Brewing,American Imperial Stout,14.30,1360,4.73
-12,SR-71,Toppling Goliath Brewing Company,American Imperial Stout,14.00,514,4.76
-13,CBS (Canadian Breakfast Stout),Founders Brewing Company,American Imperial Stout,11.70,6173,4.7
-14,Pliny The Elder,Russian River Brewing Company,American Imperial IPA,8.00,15211,4.69
-15,Juice Machine,Tree House Brewing Company,New England IPA,8.20,921,4.72
-16,Fou' Foune,Brasserie Cantillon,Belgian Fruit Lambic,5.50,3130,4.69
-17,Assassin,Toppling Goliath Brewing Company,American Imperial Stout,12.00,1377,4.7
-18,Very Green,Tree House Brewing Company,New England IPA,8.60,1288,4.7
-19,Julius,Tree House Brewing Company,New England IPA,6.80,4718,4.68
-20,Zenne Y Frontera,Brouwerij 3 Fonteinen,Belgian Lambic,7.00,294,4.77
-21,Double Sunshine,Lawson's Finest Liquids,American Imperial IPA,8.00,2490,4.68
-22,Abner,Hill Farmstead Brewery,New England IPA,8.20,2788,4.67
-23,Bourbon County Brand Stout,Goose Island Beer Co.,American Imperial Stout,15.20,12953,4.66
-24,Trappist Westvleteren 12 (XII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Belgian Quadrupel (Quad),10.20,6684,4.66
-25,Dinner,Maine Beer Company,American Imperial IPA,8.20,2518,4.66
-26,KBS (Kentucky Breakfast Stout),Founders Brewing Company,American Imperial Stout,12.30,13702,4.65
-27,Barrel Aged Imperial German Chocolate Cupcake Stout,Angry Chair Brewing,American Imperial Stout,11.00,275,4.75
-28,JJJuliusss,Tree House Brewing Company,New England IPA,6.80,650,4.69
-29,Morning Wood,Funky Buddha Brewery,American Imperial Porter,12.00,1181,4.66
-30,Parabola,Firestone Walker Brewing Co.,Russian Imperial Stout,13.00,6978,4.65
-31,Duck Duck Gooze,The Lost Abbey,Belgian Gueuze,7.00,1910,4.66
-32,Speedway Stout - Vietnamese Coffee - Bourbon-Barrel Aged,AleSmith Brewing Company,American Imperial Stout,12.00,930,4.67
-33,Lou Pepe - Kriek,Brasserie Cantillon,Belgian Fruit Lambic,5.00,1820,4.65
-34,Zombie Dust,3 Floyds Brewing Co.,American Pale Ale (APA),6.20,10719,4.63
-35,Westly,Sante Adairius Rustic Ales,American Wild Ale,8.50,371,4.7
-36,Bourbon County Brand Vanilla Stout,Goose Island Beer Co.,American Imperial Stout,14.90,1848,4.64
-37,Doubleganger,Tree House Brewing Company,New England IPA,8.20,996,4.65
-38,Fuzzy,Side Project Brewing,American Wild Ale,8.00,942,4.65
-39,Double Citra®,Hill Farmstead Brewery,American Imperial IPA,8.00,2002,4.63
-40,Ann,Hill Farmstead Brewery,Belgian Saison,6.50,411,4.68
-41,Hunahpu's Imperial Stout,Cigar City Brewing,American Imperial Stout,11.00,4370,4.62
-42,King Sue,Toppling Goliath Brewing Company,New England IPA,7.80,2746,4.62
-43,Atrial Rubicite,Jester King Brewery,American Wild Ale,5.80,1922,4.62
-44,Double Galaxy,Hill Farmstead Brewery,New England IPA,8.00,1587,4.62
-45,Headroom,Trillium Brewing Company,New England IPA,8.00,726,4.64
-46,Supplication,Russian River Brewing Company,American Wild Ale,7.75,6599,4.6
-47,Cable Car,The Lost Abbey,American Wild Ale,7.00,1082,4.62
-48,Citra,Kern River Brewing Company,American Imperial IPA,8.00,1806,4.61
-49,Focal Banger,The Alchemist,New England IPA,7.00,4040,4.6
-50,Double Dry Hopped Congress Street,Trillium Brewing Company,New England IPA,7.20,1564,4.61
-51,Framboise Du Fermier,Side Project Brewing,Belgian Saison,8.00,247,4.7
-52,Green,Tree House Brewing Company,New England IPA,7.60,3197,4.6
-53,Lou Pepe - Framboise,Brasserie Cantillon,Belgian Fruit Lambic,5.50,1397,4.61
-54,Very GGGreennn,Tree House Brewing Company,New England IPA,8.30,132,4.79
-55,Aaron,Hill Farmstead Brewery,British Barleywine,9.00,633,4.63
-56,Sip Of Sunshine,Lawson's Finest Liquids,American Imperial IPA,8.00,5768,4.59
-57,Black Tuesday,The Bruery,American Imperial Stout,19.50,4093,4.59
-58,Swish,Bissell Brothers Brewing Co.,New England IPA,8.00,1575,4.6
-59,Nectarine Premiere,de Garde Brewing,Belgian Saison,7.10,341,4.66
-60,BBADL (Bourbon Barrel Aged Dark Lord Imperial Stout),3 Floyds Brewing Co.,Russian Imperial Stout,15.00,934,4.61
-61,Haze,Tree House Brewing Company,New England IPA,8.20,2935,4.59
-62,Society & Solitude #4,Hill Farmstead Brewery,New England IPA,8.00,1357,4.6
-63,Chocolate Rain,The Bruery,American Imperial Stout,19.60,2814,4.59
-64,Beatification,Russian River Brewing Company,American Wild Ale,6.00,2810,4.59
-65,Oude Geuze Vintage,Brouwerij 3 Fonteinen,Belgian Gueuze,6.00,819,4.61
-66,Beer:Barrel:Time,Side Project Brewing,American Imperial Stout,15.00,183,4.72
-67,Maman,Perennial Artisan Ales,American Imperial Stout,11.50,356,4.65
-68,Fourth Dementia - Bourbon Barrel-Aged,Kuhnhenn Brewing Company,English Old Ale,13.50,1989,4.59
-69,Doppelganger,Tree House Brewing Company,New England IPA,8.20,1933,4.59
-70,Ephraim,Hill Farmstead Brewery,New England IPA,10.00,1081,4.6
-71,Double Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,American Pale Ale (APA),6.60,1689,4.59
-72,Chemtrailmix,3 Floyds Brewing Co.,Russian Imperial Stout,15.00,166,4.73
-73,Triple Sunshine,Lawson's Finest Liquids,American Imperial IPA,10.50,973,4.6
-74,Grande Negro Voodoo Papi - Bourbon Barrel-Aged,Voodoo Brewery,American Imperial Stout,12.50,385,4.64
-75,Clover,Hill Farmstead Brewery,Belgian Saison,,186,4.71
-76,Anabasis,Side Project Brewing,American Barleywine,14.00,150,4.74
-77,Black Note Stout,Bell's Brewery - Eccentric Café & General Store,American Imperial Stout,11.20,4893,4.57
-78,Beer Geek Vanilla Shake - Bourbon Barrel-Aged,Mikkeller ApS,American Imperial Stout,13.00,524,4.61
-79,Triple Shot,Tree House Brewing Company,American Imperial Stout,9.00,521,4.61
-80,Bourbon Paradise,Prairie Artisan Ales,American Imperial Stout,15.90,500,4.61
-81,Saint Lamvinus,Brasserie Cantillon,Belgian Fruit Lambic,7.00,2223,4.57
-82,Keene Idea,Alpine Beer Company,American Imperial IPA,8.88,484,4.61
-83,Flora Plum,Hill Farmstead Brewery,Belgian Saison,5.00,342,4.63
-84,Galaxy Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,American Pale Ale (APA),6.60,1727,4.57
-85,V.S.O.J.,Revolution Brewing,British Barleywine,14.00,185,4.69
-86,The Broken Truck,de Garde Brewing,American Wild Ale,5.00,320,4.63
-87,Abricot Du Fermier,Side Project Brewing,Belgian Saison,8.00,363,4.62
-88,Alter Ego,Tree House Brewing Company,New England IPA,6.80,2477,4.56
-89,Saison Du Fermier,Side Project Brewing,Belgian Saison,7.00,811,4.58
-90,Breakfast Stout,Founders Brewing Company,American Imperial Stout,8.30,17472,4.55
-91,Sunday Brunch,Kane Brewing Company,American Imperial Porter,9.20,783,4.58
-92,West Ashley,Sante Adairius Rustic Ales,American Wild Ale,7.30,1136,4.57
-93,Black Gold,Central Waters Brewing Co.,American Imperial Stout,11.00,776,4.58
-94,Pseudo Sue - Double Dry-Hopped,Toppling Goliath Brewing Company,American Pale Ale (APA),6.80,1118,4.57
-95,Trappistes Rochefort 10,Brasserie de Rochefort,Belgian Quadrupel (Quad),11.30,9658,4.55
-96,A Deal With The Devil,Anchorage Brewing Company,American Barleywine,17.30,1091,4.57
-97,§ucaba,Firestone Walker Brewing Co.,British Barleywine,12.50,5394,4.55
-98,Coffee Cinnamon B-Bomb,Fremont Brewing Company,American Strong Ale,13.00,1003,4.57
-99,Beyond Good And Evil,Hill Farmstead Brewery,American Imperial Stout,10.00,698,4.58
-100,It Was All A Dream,J. Wakefield Brewing,American Imperial Stout,17.00,127,4.74
-101,Bourbon Barrel Aged Plead The 5th,Dark Horse Brewing Company,Russian Imperial Stout,12.00,3304,4.55
-102,Notorious Triple IPA,Boneyard Beer Company,American Imperial IPA,12.00,854,4.57
-103,Last Buffalo In The Park,Funky Buddha Brewery,American Imperial Porter,11.50,850,4.57
-104,Mexican Brunch,Kane Brewing Company,American Imperial Porter,9.20,556,4.58
-105,Society & Solitude #5,Hill Farmstead Brewery,New England IPA,8.10,1587,4.55
-106,Miami Madness,J. Wakefield Brewing,Berliner Weisse,5.50,436,4.59
-107,Cutting Tiles (Mosaic),Trillium Brewing Company,New England IPA,8.50,1342,4.55
-108,Pirate Paradise,Prairie Artisan Ales,American Imperial Stout,13.00,279,4.62
-109,Ghost In The Machine - Double Dry-Hopped,Parish Brewing Company,New England IPA,8.00,249,4.63
-110,Blåbær Lambik,Brasserie Cantillon,Belgian Fruit Lambic,5.00,844,4.56
-111,The Rusty Nail,Fremont Brewing Company,English Oatmeal Stout,14.50,612,4.57
-112,Pirate Bomb!,Prairie Artisan Ales,American Imperial Stout,15.00,2354,4.54
-113,Speedway Stout - Bourbon Barrel-Aged,AleSmith Brewing Company,American Imperial Stout,12.00,2262,4.54
-114,The Peach,de Garde Brewing,American Wild Ale,7.30,268,4.62
-115,Double Shot,Tree House Brewing Company,American Stout,7.60,1106,4.55
-116,Grey Monday,The Bruery,American Imperial Stout,19.90,1877,4.54
-117,Great,Alpine Beer Company,American Barleywine,14.00,728,4.56
-118,In Perpetuity,Tree House Brewing Company,New England IPA,6.70,1028,4.55
-119,Bomb!,Prairie Artisan Ales,American Imperial Stout,13.00,6436,4.53
-120,Consecration,Russian River Brewing Company,American Wild Ale,10.00,5512,4.53
-121,Pseudo Sue,Toppling Goliath Brewing Company,American Pale Ale (APA),6.80,5289,4.53
-122,Wide Awake It's Morning,Funky Buddha Brewery,American Imperial Porter,10.00,970,4.55
-123,Pugachev Royale,Hangar 24 Brewing,Russian Imperial Stout,14.80,314,4.6
-124,Parabajava,Firestone Walker Brewing Co.,Russian Imperial Stout,14.00,882,4.55
-125,Samuel Adams Utopias,Boston Beer Company (Samuel Adams),American Strong Ale,28.00,2684,4.53
-126,Black Tuesday - Reserve,The Bruery,American Imperial Stout,20.50,267,4.61
-127,Framboos,Brouwerij 3 Fonteinen,Belgian Fruit Lambic,5.00,776,4.55
-128,Gggreennn!,Tree House Brewing Company,New England IPA,7.50,263,4.6
-129,Hommage,Brouwerij 3 Fonteinen,Belgian Fruit Lambic,6.00,1040,4.54
-130,Double Dry Hopped Double Mosaic Dream,Other Half Brewing Company - Brooklyn,New England IPA,8.50,551,4.56
-131,Imperial Biscotti Break - Bourbon Barrel-Aged,Evil Twin Brewing,American Imperial Stout,11.50,1664,4.53
-132,Abrasive Ale,Surly Brewing Company,American Imperial IPA,9.00,4681,4.52
-133,Mocha Wednesday,The Bruery,American Imperial Stout,19.90,1452,4.53
-134,Scaled Way Up,Trillium Brewing Company,New England IPA,8.00,506,4.56
-135,Permanent Funeral,3 Floyds Brewing Co.,American Imperial IPA,10.50,3020,4.52
-136,Moment Of Clarity,Tree House Brewing Company,English Sweet / Milk Stout,7.70,412,4.57
-137,Barrel-Aged Sump Coffee Stout,Perennial Artisan Ales,American Imperial Stout,10.50,600,4.55
-138,Susan,Hill Farmstead Brewery,New England IPA,6.20,2015,4.52
-139,Kaggen! Stormaktsporter,Närke Kulturbryggeri AB,Russian Imperial Stout,10.00,195,4.63
-140,The Abyss,Deschutes Brewery,American Imperial Stout,11.40,7430,4.51
-141,Hold On To Sunshine,Tree House Brewing Company,English Sweet / Milk Stout,7.60,446,4.56
-142,Darkness,Surly Brewing Company,Russian Imperial Stout,10.30,4086,4.51
-143,3rd Anniversary Imperial IPA,Other Half Brewing Company - Brooklyn,New England IPA,10.00,311,4.58
-144,Montmorency Vs Balaton,Jester King Brewery,American Wild Ale,6.10,883,4.53
-145,No Rules,Perrin Brewing Co.,American Imperial Porter,15.00,1364,4.52
-146,Melcher Street (Double Dry-Hopped),Trillium Brewing Company,New England IPA,7.20,1319,4.52
-147,Everett Porter,Hill Farmstead Brewery,American Porter,7.50,2798,4.51
-148,Mosaic Dry Hopped Fort Point,Trillium Brewing Company,American Pale Ale (APA),6.60,1257,4.52
-149,Bourbon Barrel Aged Dark Star: Coffee Edition,Fremont Brewing Company,English Oatmeal Stout,13.60,816,4.53
-150,Lou Pepe - Gueuze,Brasserie Cantillon,Belgian Gueuze,5.00,1234,4.52
-151,Congress Street IPA,Trillium Brewing Company,New England IPA,7.20,2366,4.51
-152,Heavy Mettle,Trillium Brewing Company,New England IPA,9.30,1176,4.52
-153,Double Stack,Great Notion Brewing,American Imperial Stout,11.00,588,4.54
-154,Double Dry Hopped Mylar Bags,Other Half Brewing Company - Brooklyn,New England IPA,8.50,452,4.55
-155,Speedway Stout - Vietnamese Coffee,AleSmith Brewing Company,American Imperial Stout,12.00,1962,4.51
-156,Abt 12,Brouwerij St. Bernardus NV,Belgian Quadrupel (Quad),10.00,9982,4.5
-157,Upper Case,Trillium Brewing Company,New England IPA,9.00,996,4.52
-158,Society & Solitude #6,Hill Farmstead Brewery,New England IPA,8.10,982,4.52
-159,4th Anniversary,Other Half Brewing Company - Brooklyn,New England IPA,10.00,205,4.61
-160,Abraxas,Perennial Artisan Ales,American Imperial Stout,10.00,2897,4.5
-161,Oude Geuze Golden Blend,Brouwerij 3 Fonteinen,Belgian Gueuze,7.50,1134,4.51
-162,Cutting Tiles (Galaxy),Trillium Brewing Company,New England IPA,8.50,571,4.53
-163,Last Snow,Funky Buddha Brewery,American Porter,6.40,2105,4.5
-164,Double Nelson,Hill Farmstead Brewery,New England IPA,8.00,378,4.55
-165,Hopslam Ale,Bell's Brewery - Eccentric Café & General Store,American Imperial IPA,10.00,13707,4.49
-166,Saison Bernice,Sante Adairius Rustic Ales,Belgian Saison,6.50,1000,4.51
-167,Apple Brandy Barrel Noir,Prairie Artisan Ales,American Imperial Stout,12.00,1669,4.5
-168,Genealogy Of Morals - Bourbon Barrel-Aged,Hill Farmstead Brewery,American Imperial Stout,10.70,664,4.52
-169,Ground State,Bottle Logic Brewing,American Imperial Stout,13.40,633,4.52
-170,Double Dry Hopped Double Mosaic Daydream,Other Half Brewing Company - Brooklyn,New England IPA,8.50,407,4.54
-171,Impermanence,Tree House Brewing Company,English Sweet / Milk Stout,9.00,400,4.54
-172,Stickee Monkee,Firestone Walker Brewing Co.,Belgian Quadrupel (Quad),12.50,2893,4.49
-173,Damon (Bourbon Barrel Aged),Hill Farmstead Brewery,Russian Imperial Stout,10.50,806,4.51
-174,Double Barrel Jesus,Evil Twin Brewing,American Imperial Stout,12.00,804,4.51
-175,Bad Boy,Alpine Beer Company,American Imperial IPA,9.00,592,4.52
-176,Trappist Westvleteren 8 (VIII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Belgian Dubbel,8.00,2299,4.49
-177,Crusher,The Alchemist,New England IPA,8.00,2255,4.49
-178,Maple Bacon Coffee Porter,Funky Buddha Brewery,American Porter,6.40,2151,4.49
-179,Oude Geuze Cuvée Armand & Gaston,Brouwerij 3 Fonteinen,Belgian Gueuze,6.50,563,4.52
-180,Aurelian Lure,Jester King Brewery,American Wild Ale,5.40,741,4.51
-181,Fuzzy Baby Ducks,New England Brewing Co.,New England IPA,6.20,1073,4.5
-182,La Fosse,Side Project Brewing,American Wild Ale,8.00,372,4.54
-183,DFPF,J. Wakefield Brewing,Berliner Weisse,3.50,441,4.53
-184,Sosus,Toppling Goliath Brewing Company,New England IPA,8.00,1851,4.49
-185,Adam From The Wood,Hair Of The Dog Brewing Company / Brewery And Tasting Room,English Old Ale,12.00,1015,4.5
-186,Bodhi,Columbus Brewing Company,American Imperial IPA,8.50,1702,4.49
-187,Barrel-Aged Silhouette,Lift Bridge Brewery,Russian Imperial Stout,10.00,509,4.52
-188,Art,Hill Farmstead Brewery,Belgian Saison,6.50,500,4.52
-189,Matt,Hair Of The Dog Brewing Company / Brewery And Tasting Room,American Strong Ale,11.50,892,4.5
-190,Imperial German Chocolate Cupcake Stout,Angry Chair Brewing,American Imperial Stout,11.50,238,4.57
-191,Gueuze 100% Lambic,Brasserie Cantillon,Belgian Gueuze,5.00,3880,4.48
-192,Temptation,Russian River Brewing Company,American Wild Ale,7.50,3809,4.48
-193,BDCS,Ozark Beer Co.,American Imperial Stout,10.20,493,4.52
-194,Citraquench'l,Heist Brewery,New England IPA,7.10,288,4.55
-195,Barrel Aged Bomb!,Prairie Artisan Ales,American Imperial Stout,14.70,1204,4.49
-196,Black & Wild,Side Project Brewing,American Wild Ale,10.00,205,4.58
-197,Ten FIDY - Bourbon Barrel Aged,Oskar Blues Grill & Brew,Russian Imperial Stout,12.90,2097,4.48
-198,Mother Of All Storms,Pelican Pub & Brewery,British Barleywine,14.00,2086,4.48
-199,Leche Borracho,Bottle Logic Brewing,American Imperial Stout,11.00,425,4.52
-200,Ghost In The Machine,Parish Brewing Company,New England IPA,8.00,981,4.49
-201,Clare's Thirsty Ale,Haymarket Beer Co. Pub & Brewery,American Imperial Stout,12.50,308,4.54
-202,"Somewhere, Something Incredible Is Waiting To Be Known",Tree House Brewing Company,English Sweet / Milk Stout,7.90,350,4.53
-203,Rodenbach Caractère Rouge,Brouwerij Rodenbach N.V.,Flanders Red Ale,7.00,1550,4.48
-204,Mexican Cake - Maple Bourbon Barrel-Aged,Westbrook Brewing Co.,American Imperial Stout,10.20,144,4.62
-205,Emerald Grouper,Pipeworks Brewing Company,American Imperial IPA,9.50,869,4.49
-206,Coffee Abraxas,Perennial Artisan Ales,American Imperial Stout,10.00,624,4.5
-207,Fyodor,Stone Brewing,Russian Imperial Stout,13.10,1388,4.48
-208,Kiwi Herman,Alpine Beer Company,American Wild Ale,7.00,291,4.54
-209,Casey / Side Project - Leaner,Casey Brewing & Blending,Belgian Saison,8.00,176,4.59
-210,Double Dry Hopped All Citra Everything,Other Half Brewing Company - Brooklyn,New England IPA,8.50,473,4.51
-211,Birth Of Tragedy,Hill Farmstead Brewery,American Imperial Porter,9.00,1276,4.48
-212,Hunahpu's Imperial Stout - Bourbon Barrel-Aged,Cigar City Brewing,American Imperial Stout,14.60,382,4.52
-213,Tweak,Avery Brewing Company,American Imperial Stout,16.00,2634,4.47
-214,Flora,Hill Farmstead Brewery,Belgian Saison,4.80,782,4.49
-215,Caffè Americano,Cigar City Brewing,American Imperial Stout,12.00,1186,4.48
-216,Hop JuJu Imperial IPA,Fat Head's Brewery & Saloon,American Imperial IPA,9.00,2320,4.47
-217,Second Fiddle,Fiddlehead Brewing Company,American Imperial IPA,8.20,2208,4.47
-218,Fort Point Pale Ale,Trillium Brewing Company,American Pale Ale (APA),6.60,2205,4.47
-219,Bourbon Barrel Black Maple,Jackie O's Pub & Brewery,American Imperial Porter,11.00,1093,4.48
-220,Coolship Red,Allagash Brewing Company,Belgian Fruit Lambic,5.70,723,4.49
-221,Bourbon Barrel Oro Negro,Jackie O's Pub & Brewery,American Imperial Stout,12.10,545,4.5
-222,Imperial Eclipse Stout - Elijah Craig (12 Year),FiftyFifty Brewing Co.,American Imperial Stout,11.90,2008,4.47
-223,Juicy,Hill Farmstead Brewery,Belgian Saison,7.40,708,4.49
-224,Space Trace,Bottle Logic Brewing,American Imperial Stout,11.10,359,4.52
-225,Sang Noir,Cascade Brewing / Raccoon Lodge & Brewpub,American Wild Ale,9.30,1819,4.47
-226,Thicket,Side Project Brewing,American Wild Ale,6.00,240,4.55
-227,Vicinity,Trillium Brewing Company,New England IPA,8.00,1727,4.47
-228,Jackie O's / Side Project - Appervation,Jackie O's Pub & Brewery,American Imperial Stout,15.00,263,4.54
-229,Bourbon Barrel Champion Ground,Jackie O's Pub & Brewery,American Imperial Stout,12.00,635,4.49
-230,Nelson,Alpine Beer Company,American IPA,7.00,4205,4.46
-231,Peche 'n Brett,Logsdon Farmhouse Ales,Belgian Saison,10.00,1432,4.47
-232,Schaerbeekse Kriek,Brouwerij 3 Fonteinen,Belgian Fruit Lambic,6.00,848,4.48
-233,Todd The Axe Man,Surly Brewing Company,American IPA,7.20,2791,4.46
-234,Coconut B-Bomb,Fremont Brewing Company,American Strong Ale,13.00,247,4.54
-235,All That Is And All That Ever Will Be,Tree House Brewing Company,English Sweet / Milk Stout,6.50,372,4.51
-236,Double Dry Hopped Sleeper Street,Trillium Brewing Company,New England IPA,7.20,1080,4.47
-237,Sante Adairius / Triple Rock Cellarman Barrel Aged Saison,Sante Adairius Rustic Ales,Belgian Saison,6.50,522,4.49
-238,Weihenstephaner Hefeweissbier,Bayerische Staatsbrauerei Weihenstephan,German Hefeweizen,5.40,8827,4.45
-239,Expedition Stout - Bourbon Barrel-Aged,Bell's Brewery - Eccentric Café & General Store,Russian Imperial Stout,13.40,673,4.48
-240,Darkstar November,Bottle Logic Brewing,Russian Imperial Stout,13.70,636,4.48
-241,Mastermind,Fiddlehead Brewing Company,American Imperial IPA,8.10,1445,4.46
-242,Blanc De Blancs,Side Project Brewing,Bière de Champagne / Bière Brut,10.00,290,4.52
-243,Double Orange Starfish,Aslin Beer Company,New England IPA,8.30,379,4.5
-244,Dorothy (Wine Barrel Aged),Hill Farmstead Brewery,Belgian Saison,7.00,222,4.54
-245,Enjoy By IPA,Stone Brewing,American Imperial IPA,9.40,11104,4.44
-246,Scaled Up,Trillium Brewing Company,New England IPA,8.00,934,4.46
-247,Madagascar,4 Hands Brewing Co.,English Sweet / Milk Stout,9.30,889,4.46
-248,Flora - Blueberry,Hill Farmstead Brewery,Belgian Saison,,255,4.52
-249,Dragonsaddle,Hoof Hearted Brewing,New England IPA,11.50,334,4.5
-250,Sure Bet,Pipeworks Brewing Company,American Imperial IPA,9.50,625,4.47
+MESTO,IME_PIVA,PIVNICA,VRSTA_PIVA,STOPNJA_ALKOHOLA,ST_GLASOV,AVG_OCENA
+1,Kentucky Brunch Brand Stout,Toppling Goliath Brewing Company,American Imperial Stout,12.00,784,4.9
+2,Marshmallow Handjee,3 Floyds Brewing Co.,Russian Imperial Stout,15.00,1696,4.81
+3,Hunahpu's Imperial Stout - Double Barrel Aged,Cigar City Brewing,American Imperial Stout,11.00,1612,4.79
+4,Barrel-Aged Abraxas,Perennial Artisan Ales,American Imperial Stout,11.00,1529,4.79
+5,Heady Topper,The Alchemist,New England IPA,8.00,14621,4.76
+6,King Julius,Tree House Brewing Company,New England IPA,8.30,1090,4.77
+7,Pliny The Younger,Russian River Brewing Company,American Imperial IPA,10.25,3263,4.75
+8,Mornin' Delight,Toppling Goliath Brewing Company,American Imperial Stout,12.80,1561,4.76
+9,Very Hazy,Tree House Brewing Company,New England IPA,8.60,958,4.76
+10,King JJJuliusss,Tree House Brewing Company,New England IPA,8.40,528,4.78
+11,Fundamental Observation,Bottle Logic Brewing,American Imperial Stout,14.30,1369,4.73
+12,SR-71,Toppling Goliath Brewing Company,American Imperial Stout,14.00,514,4.76
+13,CBS (Canadian Breakfast Stout),Founders Brewing Company,American Imperial Stout,11.30,6199,4.7
+14,Juice Machine,Tree House Brewing Company,New England IPA,8.20,935,4.72
+15,Pliny The Elder,Russian River Brewing Company,American Imperial IPA,8.00,15218,4.69
+16,Fou' Foune,Brasserie Cantillon,Belgian Fruit Lambic,5.50,3132,4.69
+17,Assassin,Toppling Goliath Brewing Company,American Imperial Stout,12.00,1380,4.7
+18,Very Green,Tree House Brewing Company,New England IPA,8.60,1300,4.7
+19,Julius,Tree House Brewing Company,New England IPA,6.80,4727,4.68
+20,Double Sunshine,Lawson's Finest Liquids,American Imperial IPA,8.00,2500,4.68
+21,Zenne Y Frontera,Brouwerij 3 Fonteinen,Belgian Lambic,7.00,296,4.76
+22,Abner,Hill Farmstead Brewery,New England IPA,8.20,2788,4.67
+23,Bourbon County Brand Stout,Goose Island Beer Co.,American Imperial Stout,14.70,12957,4.66
+24,Trappist Westvleteren 12 (XII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Belgian Quadrupel (Quad),10.20,6691,4.66
+25,Dinner,Maine Beer Company,American Imperial IPA,8.20,2523,4.66
+26,JJJuliusss,Tree House Brewing Company,New England IPA,6.80,674,4.69
+27,KBS (Kentucky Breakfast Stout),Founders Brewing Company,American Imperial Stout,12.30,13713,4.65
+28,Barrel Aged Imperial German Chocolate Cupcake Stout,Angry Chair Brewing,American Imperial Stout,11.00,276,4.75
+29,Parabola,Firestone Walker Brewing Co.,Russian Imperial Stout,13.00,6981,4.65
+30,Duck Duck Gooze,The Lost Abbey,Belgian Gueuze,7.00,1913,4.66
+31,Speedway Stout - Vietnamese Coffee - Bourbon-Barrel Aged,AleSmith Brewing Company,American Imperial Stout,12.00,931,4.67
+32,Morning Wood,Funky Buddha Brewery,American Imperial Porter,12.00,1181,4.66
+33,Lou Pepe - Kriek,Brasserie Cantillon,Belgian Fruit Lambic,5.00,1820,4.65
+34,Zombie Dust,3 Floyds Brewing Co.,American Pale Ale (APA),6.20,10731,4.63
+35,Bourbon County Brand Vanilla Stout,Goose Island Beer Co.,American Imperial Stout,14.90,1856,4.64
+36,Doubleganger,Tree House Brewing Company,New England IPA,8.20,1003,4.65
+37,Fuzzy,Side Project Brewing,American Wild Ale,8.00,945,4.65
+38,Westly,Sante Adairius Rustic Ales,American Wild Ale,8.50,374,4.69
+39,Double Citra®,Hill Farmstead Brewery,American Imperial IPA,8.00,2006,4.63
+40,Ann,Hill Farmstead Brewery,Belgian Saison,6.50,412,4.68
+41,Hunahpu's Imperial Stout,Cigar City Brewing,American Imperial Stout,11.00,4370,4.62
+42,King Sue,Toppling Goliath Brewing Company,New England IPA,7.80,2766,4.62
+43,Atrial Rubicite,Jester King Brewery,American Wild Ale,5.80,1926,4.62
+44,Headroom,Trillium Brewing Company,New England IPA,8.00,729,4.64
+45,Double Galaxy,Hill Farmstead Brewery,New England IPA,8.00,1595,4.62
+46,Supplication,Russian River Brewing Company,American Wild Ale,7.75,6602,4.6
+47,Cable Car,The Lost Abbey,American Wild Ale,7.00,1085,4.62
+48,Citra,Kern River Brewing Company,American Imperial IPA,8.00,1806,4.61
+49,Framboise Du Fermier,Side Project Brewing,Belgian Saison,8.00,249,4.7
+50,Focal Banger,The Alchemist,New England IPA,7.00,4053,4.6
+51,Double Dry Hopped Congress Street,Trillium Brewing Company,New England IPA,7.20,1564,4.61
+52,Very GGGreennn,Tree House Brewing Company,New England IPA,8.30,134,4.79
+53,Green,Tree House Brewing Company,New England IPA,7.60,3202,4.6
+54,Lou Pepe - Framboise,Brasserie Cantillon,Belgian Fruit Lambic,5.50,1399,4.61
+55,Aaron,Hill Farmstead Brewery,British Barleywine,9.00,635,4.63
+56,Sip Of Sunshine,Lawson's Finest Liquids,American Imperial IPA,8.00,5780,4.59
+57,Black Tuesday,The Bruery,American Imperial Stout,19.50,4093,4.59
+58,Swish,Bissell Brothers Brewing Co.,New England IPA,8.00,1584,4.6
+59,BBADL (Bourbon Barrel Aged Dark Lord Imperial Stout),3 Floyds Brewing Co.,Russian Imperial Stout,15.00,934,4.61
+60,Society & Solitude #4,Hill Farmstead Brewery,New England IPA,8.00,1358,4.6
+61,Chocolate Rain,The Bruery,American Imperial Stout,19.60,2816,4.59
+62,Beatification,Russian River Brewing Company,American Wild Ale,6.00,2811,4.59
+63,Beer:Barrel:Time,Side Project Brewing,American Imperial Stout,15.00,185,4.72
+64,Oude Geuze Vintage,Brouwerij 3 Fonteinen,Belgian Gueuze,6.00,821,4.61
+65,Maman,Perennial Artisan Ales,American Imperial Stout,11.50,356,4.65
+66,Fourth Dementia - Bourbon Barrel-Aged,Kuhnhenn Brewing Company,English Old Ale,13.50,1989,4.59
+67,Doppelganger,Tree House Brewing Company,New England IPA,8.20,1940,4.59
+68,Ephraim,Hill Farmstead Brewery,New England IPA,10.00,1081,4.6
+69,Chemtrailmix,3 Floyds Brewing Co.,Russian Imperial Stout,15.00,167,4.73
+70,Double Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,American Pale Ale (APA),6.60,1690,4.59
+71,Nectarine Premiere,de Garde Brewing,Belgian Saison,7.10,343,4.65
+72,Triple Sunshine,Lawson's Finest Liquids,American Imperial IPA,10.50,979,4.6
+73,Grande Negro Voodoo Papi - Bourbon Barrel-Aged,Voodoo Brewery,American Imperial Stout,12.50,386,4.64
+74,Clover,Hill Farmstead Brewery,Belgian Saison,,188,4.71
+75,Haze,Tree House Brewing Company,New England IPA,8.20,2941,4.58
+76,Black Note Stout,Bell's Brewery - Eccentric Café & General Store,American Imperial Stout,11.20,4894,4.57
+77,Anabasis,Side Project Brewing,American Barleywine,14.00,153,4.73
+78,Beer Geek Vanilla Shake - Bourbon Barrel-Aged,Mikkeller ApS,American Imperial Stout,13.00,524,4.61
+79,Triple Shot,Tree House Brewing Company,American Imperial Stout,9.00,523,4.61
+80,Bourbon Paradise,Prairie Artisan Ales,American Imperial Stout,15.90,503,4.61
+81,Saint Lamvinus,Brasserie Cantillon,Belgian Fruit Lambic,7.00,2224,4.57
+82,Keene Idea,Alpine Beer Company,American Imperial IPA,8.88,486,4.61
+83,Flora Plum,Hill Farmstead Brewery,Belgian Saison,5.00,343,4.63
+84,V.S.O.J.,Revolution Brewing,British Barleywine,14.00,189,4.69
+85,Galaxy Dry Hopped Fort Point Pale Ale,Trillium Brewing Company,American Pale Ale (APA),6.60,1727,4.57
+86,The Broken Truck,de Garde Brewing,American Wild Ale,5.00,322,4.63
+87,Abricot Du Fermier,Side Project Brewing,Belgian Saison,8.00,364,4.62
+88,Alter Ego,Tree House Brewing Company,New England IPA,6.80,2481,4.56
+89,Saison Du Fermier,Side Project Brewing,Belgian Saison,7.00,814,4.58
+90,Breakfast Stout,Founders Brewing Company,American Imperial Stout,8.30,17483,4.55
+91,Sunday Brunch,Kane Brewing Company,American Imperial Porter,9.20,786,4.58
+92,Black Gold,Central Waters Brewing Co.,American Imperial Stout,11.00,783,4.58
+93,West Ashley,Sante Adairius Rustic Ales,American Wild Ale,7.30,1136,4.57
+94,Pseudo Sue - Double Dry-Hopped,Toppling Goliath Brewing Company,American Pale Ale (APA),6.80,1122,4.57
+95,Trappistes Rochefort 10,Brasserie de Rochefort,Belgian Quadrupel (Quad),11.30,9662,4.55
+96,A Deal With The Devil,Anchorage Brewing Company,American Barleywine,17.30,1092,4.57
+97,§ucaba,Firestone Walker Brewing Co.,British Barleywine,12.50,5399,4.55
+98,Coffee Cinnamon B-Bomb,Fremont Brewing Company,American Strong Ale,13.00,1004,4.57
+99,Beyond Good And Evil,Hill Farmstead Brewery,American Imperial Stout,10.00,700,4.58
+100,It Was All A Dream,J. Wakefield Brewing,American Imperial Stout,17.00,127,4.74
+101,Bourbon Barrel Aged Plead The 5th,Dark Horse Brewing Company,Russian Imperial Stout,12.00,3305,4.55
+102,Notorious Triple IPA,Boneyard Beer Company,American Imperial IPA,12.00,854,4.57
+103,Last Buffalo In The Park,Funky Buddha Brewery,American Imperial Porter,11.50,851,4.57
+104,Mexican Brunch,Kane Brewing Company,American Imperial Porter,9.20,557,4.58
+105,Ghost In The Machine - Double Dry-Hopped,Parish Brewing Company,New England IPA,8.00,258,4.63
+106,Society & Solitude #5,Hill Farmstead Brewery,New England IPA,8.10,1587,4.55
+107,Miami Madness,J. Wakefield Brewing,Berliner Weisse,5.50,439,4.59
+108,Pirate Paradise,Prairie Artisan Ales,American Imperial Stout,13.00,284,4.62
+109,Cutting Tiles (Mosaic),Trillium Brewing Company,New England IPA,8.50,1342,4.55
+110,Blåbær Lambik,Brasserie Cantillon,Belgian Fruit Lambic,5.00,846,4.56
+111,Samuel Adams Utopias,Boston Beer Company (Samuel Adams),American Strong Ale,28.00,2692,4.54
+112,The Rusty Nail,Fremont Brewing Company,English Oatmeal Stout,14.50,615,4.57
+113,Pirate Bomb!,Prairie Artisan Ales,American Imperial Stout,15.00,2365,4.54
+114,Speedway Stout - Bourbon Barrel-Aged,AleSmith Brewing Company,American Imperial Stout,12.00,2263,4.54
+115,The Peach,de Garde Brewing,American Wild Ale,7.30,268,4.62
+116,Double Shot,Tree House Brewing Company,American Stout,7.60,1115,4.55
+117,Grey Monday,The Bruery,American Imperial Stout,19.90,1879,4.54
+118,Great,Alpine Beer Company,American Barleywine,14.00,729,4.56
+119,In Perpetuity,Tree House Brewing Company,New England IPA,6.70,1033,4.55
+120,Bomb!,Prairie Artisan Ales,American Imperial Stout,13.00,6441,4.53
+121,Consecration,Russian River Brewing Company,American Wild Ale,10.00,5513,4.53
+122,Pseudo Sue,Toppling Goliath Brewing Company,American Pale Ale (APA),6.80,5294,4.53
+123,Wide Awake It's Morning,Funky Buddha Brewery,American Imperial Porter,10.00,971,4.55
+124,Pugachev Royale,Hangar 24 Brewing,Russian Imperial Stout,14.80,314,4.6
+125,Parabajava,Firestone Walker Brewing Co.,Russian Imperial Stout,14.00,882,4.55
+126,Black Tuesday - Reserve,The Bruery,American Imperial Stout,20.50,267,4.61
+127,Framboos,Brouwerij 3 Fonteinen,Belgian Fruit Lambic,5.00,776,4.55
+128,Hommage,Brouwerij 3 Fonteinen,Belgian Fruit Lambic,6.00,1044,4.54
+129,Double Dry Hopped Double Mosaic Dream,Other Half Brewing Company - Brooklyn,New England IPA,8.50,555,4.56
+130,Imperial Biscotti Break - Bourbon Barrel-Aged,Evil Twin Brewing,American Imperial Stout,11.50,1665,4.53
+131,Abrasive Ale,Surly Brewing Company,American Imperial IPA,9.00,4681,4.52
+132,Gggreennn!,Tree House Brewing Company,New England IPA,7.50,279,4.6
+133,Mocha Wednesday,The Bruery,American Imperial Stout,19.90,1454,4.53
+134,Moment Of Clarity,Tree House Brewing Company,English Sweet / Milk Stout,7.70,420,4.57
+135,Scaled Way Up,Trillium Brewing Company,New England IPA,8.00,507,4.56
+136,Permanent Funeral,3 Floyds Brewing Co.,American Imperial IPA,10.50,3020,4.52
+137,Barrel-Aged Sump Coffee Stout,Perennial Artisan Ales,American Imperial Stout,10.50,602,4.55
+138,Kaggen! Stormaktsporter,Närke Kulturbryggeri AB,Russian Imperial Stout,10.00,197,4.63
+139,Susan,Hill Farmstead Brewery,New England IPA,6.20,2016,4.52
+140,Hold On To Sunshine,Tree House Brewing Company,English Sweet / Milk Stout,7.60,449,4.56
+141,The Abyss,Deschutes Brewery,American Imperial Stout,11.40,7435,4.51
+142,Darkness,Surly Brewing Company,Russian Imperial Stout,12.00,4091,4.51
+143,3rd Anniversary Imperial IPA,Other Half Brewing Company - Brooklyn,New England IPA,10.00,311,4.58
+144,Montmorency Vs Balaton,Jester King Brewery,American Wild Ale,6.10,885,4.53
+145,No Rules,Perrin Brewing Co.,American Imperial Porter,15.00,1364,4.52
+146,Melcher Street (Double Dry-Hopped),Trillium Brewing Company,New England IPA,7.20,1320,4.52
+147,Everett Porter,Hill Farmstead Brewery,American Porter,7.50,2798,4.51
+148,Mosaic Dry Hopped Fort Point,Trillium Brewing Company,American Pale Ale (APA),6.60,1258,4.52
+149,Bourbon Barrel Aged Dark Star: Coffee Edition,Fremont Brewing Company,English Oatmeal Stout,13.60,820,4.53
+150,Lou Pepe - Gueuze,Brasserie Cantillon,Belgian Gueuze,5.00,1234,4.52
+151,Double Stack,Great Notion Brewing,American Imperial Stout,11.00,597,4.54
+152,Congress Street IPA,Trillium Brewing Company,New England IPA,7.20,2372,4.51
+153,Heavy Mettle,Trillium Brewing Company,New England IPA,9.30,1181,4.52
+154,Double Dry Hopped Mylar Bags,Other Half Brewing Company - Brooklyn,New England IPA,8.50,454,4.55
+155,Speedway Stout - Vietnamese Coffee,AleSmith Brewing Company,American Imperial Stout,12.00,1964,4.51
+156,Abt 12,Brouwerij St. Bernardus NV,Belgian Quadrupel (Quad),10.00,9989,4.5
+157,Upper Case,Trillium Brewing Company,New England IPA,9.00,996,4.52
+158,Society & Solitude #6,Hill Farmstead Brewery,New England IPA,8.10,985,4.52
+159,4th Anniversary,Other Half Brewing Company - Brooklyn,New England IPA,10.00,205,4.61
+160,Abraxas,Perennial Artisan Ales,American Imperial Stout,10.00,2902,4.5
+161,Cutting Tiles (Galaxy),Trillium Brewing Company,New England IPA,8.50,575,4.53
+162,Oude Geuze Golden Blend,Brouwerij 3 Fonteinen,Belgian Gueuze,7.50,1135,4.51
+163,Double Nelson,Hill Farmstead Brewery,New England IPA,8.00,380,4.55
+164,Last Snow,Funky Buddha Brewery,American Porter,6.40,2106,4.5
+165,Hopslam Ale,Bell's Brewery - Eccentric Café & General Store,American Imperial IPA,10.00,13708,4.49
+166,Saison Bernice,Sante Adairius Rustic Ales,Belgian Saison,6.50,1002,4.51
+167,Apple Brandy Barrel Noir,Prairie Artisan Ales,American Imperial Stout,12.00,1672,4.5
+168,Genealogy Of Morals - Bourbon Barrel-Aged,Hill Farmstead Brewery,American Imperial Stout,10.70,665,4.52
+169,Double Dry Hopped Double Mosaic Daydream,Other Half Brewing Company - Brooklyn,New England IPA,8.50,409,4.54
+170,Ground State,Bottle Logic Brewing,American Imperial Stout,13.40,633,4.52
+171,Impermanence,Tree House Brewing Company,English Sweet / Milk Stout,9.00,405,4.54
+172,Stickee Monkee,Firestone Walker Brewing Co.,Belgian Quadrupel (Quad),12.50,2896,4.49
+173,Damon (Bourbon Barrel Aged),Hill Farmstead Brewery,Russian Imperial Stout,10.50,807,4.51
+174,Double Barrel Jesus,Evil Twin Brewing,American Imperial Stout,12.00,804,4.51
+175,Bad Boy,Alpine Beer Company,American Imperial IPA,9.00,592,4.52
+176,Trappist Westvleteren 8 (VIII),Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren),Belgian Dubbel,8.00,2300,4.49
+177,Crusher,The Alchemist,New England IPA,8.00,2256,4.49
+178,Oude Geuze Cuvée Armand & Gaston,Brouwerij 3 Fonteinen,Belgian Gueuze,6.50,564,4.52
+179,Maple Bacon Coffee Porter,Funky Buddha Brewery,American Porter,6.40,2153,4.49
+180,Aurelian Lure,Jester King Brewery,American Wild Ale,5.40,741,4.51
+181,La Fosse,Side Project Brewing,American Wild Ale,8.00,373,4.54
+182,Fuzzy Baby Ducks,New England Brewing Co.,New England IPA,6.20,1074,4.5
+183,DFPF,J. Wakefield Brewing,Berliner Weisse,3.50,441,4.53
+184,Sosus,Toppling Goliath Brewing Company,New England IPA,8.00,1851,4.49
+185,Adam From The Wood,Hair Of The Dog Brewing Company / Brewery And Tasting Room,English Old Ale,12.00,1016,4.5
+186,Bodhi,Columbus Brewing Company,American Imperial IPA,8.50,1703,4.49
+187,Barrel-Aged Silhouette,Lift Bridge Brewery,Russian Imperial Stout,10.00,510,4.52
+188,Matt,Hair Of The Dog Brewing Company / Brewery And Tasting Room,American Strong Ale,11.50,894,4.5
+189,Art,Hill Farmstead Brewery,Belgian Saison,6.50,500,4.52
+190,Gueuze 100% Lambic,Brasserie Cantillon,Belgian Gueuze,5.00,3883,4.48
+191,BDCS,Ozark Beer Co.,American Imperial Stout,10.20,494,4.52
+192,Temptation,Russian River Brewing Company,American Wild Ale,7.50,3811,4.48
+193,Citraquench'l,Heist Brewery,New England IPA,7.10,288,4.55
+194,Barrel Aged Bomb!,Prairie Artisan Ales,American Imperial Stout,14.70,1204,4.49
+195,Black & Wild,Side Project Brewing,American Wild Ale,10.00,205,4.58
+196,Ten FIDY - Bourbon Barrel Aged,Oskar Blues Grill & Brew,Russian Imperial Stout,12.90,2098,4.48
+197,Mother Of All Storms,Pelican Pub & Brewery,British Barleywine,14.00,2089,4.48
+198,Ghost In The Machine,Parish Brewing Company,New England IPA,8.00,991,4.49
+199,Leche Borracho,Bottle Logic Brewing,American Imperial Stout,11.00,426,4.52
+200,Clare's Thirsty Ale,Haymarket Beer Co. Pub & Brewery,American Imperial Stout,12.50,308,4.54
+201,Imperial German Chocolate Cupcake Stout,Angry Chair Brewing,American Imperial Stout,11.50,240,4.56
+202,"Somewhere, Something Incredible Is Waiting To Be Known",Tree House Brewing Company,English Sweet / Milk Stout,7.90,350,4.53
+203,Rodenbach Caractère Rouge,Brouwerij Rodenbach N.V.,Flanders Red Ale,7.00,1552,4.48
+204,Mexican Cake - Maple Bourbon Barrel-Aged,Westbrook Brewing Co.,American Imperial Stout,10.20,145,4.62
+205,Emerald Grouper,Pipeworks Brewing Company,American Imperial IPA,9.50,879,4.49
+206,Casey / Side Project - Leaner,Casey Brewing & Blending,Belgian Saison,8.00,178,4.59
+207,Coffee Abraxas,Perennial Artisan Ales,American Imperial Stout,10.00,626,4.5
+208,Fyodor,Stone Brewing,Russian Imperial Stout,13.10,1390,4.48
+209,Kiwi Herman,Alpine Beer Company,American Wild Ale,7.00,291,4.54
+210,Double Dry Hopped All Citra Everything,Other Half Brewing Company - Brooklyn,New England IPA,8.50,476,4.51
+211,Birth Of Tragedy,Hill Farmstead Brewery,American Imperial Porter,9.00,1276,4.48
+212,Hunahpu's Imperial Stout - Bourbon Barrel-Aged,Cigar City Brewing,American Imperial Stout,14.60,383,4.52
+213,Tweak,Avery Brewing Company,American Imperial Stout,16.00,2638,4.47
+214,Flora,Hill Farmstead Brewery,Belgian Saison,4.80,782,4.49
+215,Caffè Americano,Cigar City Brewing,American Imperial Stout,12.00,1189,4.48
+216,Hop JuJu Imperial IPA,Fat Head's Brewery & Saloon,American Imperial IPA,9.00,2321,4.47
+217,Second Fiddle,Fiddlehead Brewing Company,American Imperial IPA,8.20,2212,4.47
+218,Fort Point Pale Ale,Trillium Brewing Company,American Pale Ale (APA),6.60,2205,4.47
+219,Bourbon Barrel Black Maple,Jackie O's Pub & Brewery,American Imperial Porter,11.00,1093,4.48
+220,Thicket,Side Project Brewing,American Wild Ale,6.00,246,4.55
+221,Bourbon Barrel Oro Negro,Jackie O's Pub & Brewery,American Imperial Stout,12.10,546,4.5
+222,Coolship Red,Allagash Brewing Company,Belgian Fruit Lambic,5.70,723,4.49
+223,Imperial Eclipse Stout - Elijah Craig (12 Year),FiftyFifty Brewing Co.,American Imperial Stout,11.90,2008,4.47
+224,Juicy,Hill Farmstead Brewery,Belgian Saison,7.40,708,4.49
+225,Space Trace,Bottle Logic Brewing,American Imperial Stout,11.10,360,4.52
+226,Sang Noir,Cascade Brewing / Raccoon Lodge & Brewpub,American Wild Ale,9.30,1820,4.47
+227,Vicinity,Trillium Brewing Company,New England IPA,8.00,1729,4.47
+228,Jackie O's / Side Project - Appervation,Jackie O's Pub & Brewery,American Imperial Stout,15.00,264,4.54
+229,Bourbon Barrel Champion Ground,Jackie O's Pub & Brewery,American Imperial Stout,12.00,635,4.49
+230,Nelson,Alpine Beer Company,American IPA,7.00,4208,4.46
+231,Peche 'n Brett,Logsdon Farmhouse Ales,Belgian Saison,10.00,1433,4.47
+232,Schaerbeekse Kriek,Brouwerij 3 Fonteinen,Belgian Fruit Lambic,6.00,853,4.48
+233,Todd The Axe Man,Surly Brewing Company,American IPA,7.20,2810,4.46
+234,All That Is And All That Ever Will Be,Tree House Brewing Company,English Sweet / Milk Stout,6.50,378,4.51
+235,Coconut B-Bomb,Fremont Brewing Company,American Strong Ale,13.00,249,4.54
+236,Double Dry Hopped Sleeper Street,Trillium Brewing Company,New England IPA,7.20,1081,4.47
+237,Sante Adairius / Triple Rock Cellarman Barrel Aged Saison,Sante Adairius Rustic Ales,Belgian Saison,6.50,522,4.49
+238,Expedition Stout - Bourbon Barrel-Aged,Bell's Brewery - Eccentric Café & General Store,Russian Imperial Stout,13.40,676,4.48
+239,Weihenstephaner Hefeweissbier,Bayerische Staatsbrauerei Weihenstephan,German Hefeweizen,5.40,8834,4.45
+240,Blanc De Blancs,Side Project Brewing,Bière de Champagne / Bière Brut,10.00,294,4.52
+241,Darkstar November,Bottle Logic Brewing,Russian Imperial Stout,13.70,637,4.48
+242,Mastermind,Fiddlehead Brewing Company,American Imperial IPA,8.10,1448,4.46
+243,Double Orange Starfish,Aslin Beer Company,New England IPA,8.30,381,4.5
+244,Dorothy (Wine Barrel Aged),Hill Farmstead Brewery,Belgian Saison,7.00,222,4.54
+245,Enjoy By IPA,Stone Brewing,American Imperial IPA,9.40,11106,4.44
+246,Scaled Up,Trillium Brewing Company,New England IPA,8.00,934,4.46
+247,Dragonsaddle,Hoof Hearted Brewing,New England IPA,11.50,338,4.5
+248,Flora - Blueberry,Hill Farmstead Brewery,Belgian Saison,,256,4.52
+249,Madagascar,4 Hands Brewing Co.,English Sweet / Milk Stout,9.30,891,4.46
+250,Sure Bet,Pipeworks Brewing Company,American Imperial IPA,9.50,625,4.47
