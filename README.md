@@ -6,30 +6,30 @@ V tej projektni nalogi bom ocenjeval piva s pomočjo podatkov, ki jih bom analiz
 
 ## Skupine, po katerih bom ločeval podatke
 
-	* ime piva
-	* skupna ocena (oceno lahko spreminjajo uporabniki, tako da bo zaradi velikega števila ocen navadno precej realna)
-	* stil piva
-	* število glasov
-	* povprečna ocena
-	* izvorna pivnica
-	* stopnja alkohola
+* ime piva
+* skupna ocena (oceno lahko spreminjajo uporabniki, tako da bo zaradi velikega števila ocen navadno precej realna)
+* stil piva
+* število glasov
+* povprečna ocena
+* izvorna pivnica
+* stopnja alkohola
 
 ## Hipoteze
-
-	* država izvora ima zaradi števila glasov (in subjektivnega ocenjevanja) velik vpliv na skupno oceno piva
-	* stopnja alkohola je premosorazmerna s kalorično vrednostjo piva
-	* stopnja priljubljenosti (oz. skupna ocena) piva je odvisna od stila piva
+* med 250 najbolj priljubljenimi pivi je največ piv tipa "IPA" in najmanj piv tipa "PALE ALE"
+* več kot polovica piv ima več kot 7% vsebovanost alkohola
+* svetlo pivo je bolj priljubljeno od temnega
+* največ glasov je prejelo ameriško pivo
 
 ## CSV datoteka
 
 CSV datoteka vsebuje podatke o:
 
-	* mestu, na katerem pivo je
-	* imenu piva
-	* izvorni pivnici
-	* vrsti piva
-	* stopnji alkohola
-	* stevilu ljudi, ki so za to pivo glasovali
-	* povprecni oceni oddanega glasu
+* mestu, na katerem pivo je
+* imenu piva
+* izvorni pivnici
+* vrsti piva
+* stopnji alkohola
+* številu ljudi, ki so za to pivo glasovali
+* povprečni oceni oddanega glasu
 
 Podatke, ki so shranjeni v .csv datoteki, sem dobil s pomočjo Python scripta beer_ratings.py, ki je prav tako shranjen v repozitoriju.
